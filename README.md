@@ -19,7 +19,7 @@
 - SRE - End2End Monitoring, Incident Management, Problem solving thinking & Debugging capabilities
 
 #### ⚡ Fun fact: 
-- I am also working as mentalist (Mind Reader) for private & corporate events! feel free to ask me about that or ask to experience.
+- I am also working as mentalist (Mind Reader) for private & corporate events! feel free to ask me about that.
 
 
 <!--
