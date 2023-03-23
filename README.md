@@ -4,19 +4,20 @@
 #### 💬 About Me:
 - 27 years old.
 - Loves Technology - Anything from Cloud, AI, Gaming, Innovations and more.
-- Gamer.
+- Gamer & Married.
 - Certified AWS Cloud Practitioner.
 - About to finish my B.Sc in Computer Science.
 
 #### 💼 Career's Experience:
-- Tech Lead in a cloud operations team - Building a 24\7 Operational NOC team, Setting up monitoring solutions for the company, Leading global-impacting produciton incidents.
+- Tech Lead in a cloud operations team - Built a 24\7 Operational NOC team, Setting up monitoring solutions for the company, Leading global-impacting produciton incidents.
 - Technical Artist - Managing confidential military projects, leading a team of 3D Designers.
 - [Developed my own 2D Arcade game using Unity and C#. Published on Playstore.](https://github.com/amirb401/Shit-Man---Android-Arcade-Game)
 
 #### 🤔 My Expertise:
-- Java - Spring, boot, JavaFX, multi-threading.
+- Java.
+- C#.
 - AWS - EC2, Lambdas, DynamoDB, CloudWatch, SQS SNS, IAM.
-- SRE - End2End Monitoring, Incident Management, Problem solving thinking & Debugging capabilities
+- 
 
 #### ⚡ Fun fact: 
 - I am also working as mentalist (Mind Reader) for private & corporate events! feel free to ask me about that.
