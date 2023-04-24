@@ -9,7 +9,7 @@
 - About to finish my B.Sc in Computer Science.
 
 #### 💼 Career's Experience:
-- Tech Lead in a cloud operations team - Built a 24\7 Operational NOC team, Setting up monitoring solutions for the company, Leading global-impacting produciton incidents.
+- Tech Lead in a cloud operations team - Built a 24\7 Operational NOC team, Setting up monitoring solutions for the company, Leading global-impacting production incidents.
 - Technical Artist - Managing confidential military projects, leading a team of 3D Designers.
 - [Developed my own 2D Arcade game using Unity and C#. Published on Playstore.](https://github.com/amirb401/Shit-Man---Android-Arcade-Game)
 
