@@ -2,7 +2,7 @@
 
 
 #### 💬 About Me:
-- 27 years old.
+- 28 years old.
 - Loves Technology - Anything from Cloud, AI, Gaming, Innovations and more.
 - Gamer & Married.
 - Certified AWS Cloud Practitioner.
@@ -13,11 +13,11 @@
 - Technical Artist & Integrator - Managing confidential military projects, leading a team of 3D Designers.
 - [Developed my own 2D Arcade game using Unity and C#. Published on Playstore.](https://github.com/amirb401/Shit-Man---Android-Arcade-Game)
 
-#### 🤔 My Expertise:
+#### 🔭 My Expertise:
 - Java.
 - C#.
+- Python.
 - AWS.
-- 
 
 #### ⚡ Fun fact: 
 - I am also working as mentalist (Mind Reader) for private & corporate events! feel free to ask me about that.
