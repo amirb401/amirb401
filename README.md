@@ -3,7 +3,7 @@
 
 #### 💬 About Me:
 - 28 years old.
-- Loves Technology - Anything from Cloud, AI, Gaming, Innovations and more.
+- Loves Technology - Anything from Cloud, AI, Gaming, Security, Automations and more.
 - Gamer & Married.
 - Certified AWS Cloud Practitioner.
 - About to finish my B.Sc in Computer Science.
