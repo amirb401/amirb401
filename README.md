@@ -2,7 +2,7 @@
 
 
 #### 💬 About Me:
-- 28 years old.
+- 29 years old.
 - Loves Technology - Anything from Cloud, AI, Gaming, Security, Automations and more.
 - Gamer & Married.
 - Certified AWS Cloud Practitioner.
