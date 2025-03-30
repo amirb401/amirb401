@@ -4,9 +4,9 @@
 #### 💬 About Me:
 - 29 years old.
 - Loves Technology - Anything from Cloud, AI, Gaming, Security, Automations and more.
-- Gamer & Married.
+- Gamer.
 - Certified AWS Cloud Practitioner.
-- About to finish my B.Sc in Computer Science.
+- B.Sc in Computer Science - Open University.
 
 #### 💼 Career's Experience:
 - R&D Team Lead in the AdTech industry.
